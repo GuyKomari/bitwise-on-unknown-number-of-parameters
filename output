@@ -1,0 +1,12 @@
+
+var_and function was invoked with the values : 4 , 176 , 55 , 54 , 48 
+The function returned the value: 48 
+
+var_and function was invoked with the values : 3 , 1 , 7 , 25 
+The function returned the value: 1 
+
+var_and function was invoked with the values : 6 , 4294967295 , 82 , 14 , 58 , 126 , 258 
+The function returned the value: 2 
+
+var_and function was invoked with the values : 5 , 1 , 65 , 33 , 3 , 0 
+The function returned the value: 0 
